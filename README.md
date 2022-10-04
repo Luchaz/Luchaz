@@ -5,7 +5,7 @@
 
 - 🎓 I’m currently Studying on [Informatic Enggenering](https://www.its.ac.id/informatika/)
 
-- 🌱 I’m currently learning **Basic Programming, Web Development**
+- 🌱 I’m currently learning **Basic Programming, Database Management**
 
 - 📫 How to reach me **fawwaznaufal1720@gmail.com**
 
