@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naufal Fawwaz Ramadhan</h1>
 <h3 align="center">"A little progress each day in your self is ads thing up to big result"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luchaz&label=Profile%20views&color=0e75b6&style=flat" alt="luchaz" /> </p>
 
 - 🎓 I’m currently Studying on [Informatic Enggenering](https://www.its.ac.id/informatika/)
 
