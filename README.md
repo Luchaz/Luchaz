@@ -2,6 +2,7 @@
 <h3 align="center">"A little progress each day in your self is ads thing up to big result"</h3>
 
 
+
 - 🎓 I’m currently Studying on [Informatic Enggenering](https://www.its.ac.id/informatika/)
 
 - 🌱 I’m currently learning **Basic Programming, Database Management**
