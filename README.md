@@ -22,7 +22,7 @@
 
 **Hey there!** 👋 I'm a **researcher, Machine Learning & NLP Enthusiast**
 
-My background is in Informatics Engineering, where I focused on NLP research and building automated pipelines as an AI Engineer. Now, as a Master's student in Information Systems at ITS, I am bringing that technical expertise into the strategic side of technology. I am highly interested in how machine learning, prompt engineering, and business intelligence can be integrated to optimize workflows and solve real world problems.
+My background is in Informatics Engineering, where I focused on NLP research. Now, as a Master's student in Information Systems at ITS, I am bringing that technical expertise into the strategic side of technology. I am highly interested in how machine learning, prompt engineering, and business intelligence can be integrated to optimize workflows and solve real world problems.
 
 ## 🔨 My Tools
 
